@@ -22,6 +22,8 @@ https://github.com/djidjiawdia/Mini-Projet
 
 ## Lien d'hébergement
 
+djidjiawdia.alwaysdata.net/mini_projet
+
 ## Fonctionnalités du projet
 
 Se connecter en tant que Admin
